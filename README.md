@@ -1,5 +1,9 @@
 # CellularAutomataJavaScript
 
+This is a simple Cellular Automata simulation in Java Script. It was coded using the P5 library, wich you can download in most coding environments, or use the online editor at "https://editor.p5js.org". 
+
+![image](https://github.com/user-attachments/assets/8021a51c-59cf-42ab-adfa-a84007244052)
+
 ## 1. Initialization:
 
 - make2DArray(cols, rows): Creates a 2D array with specified columns and rows, initialized with zeros.
